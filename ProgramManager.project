@@ -33,6 +33,14 @@
             "calculate",
             "calculate.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "range",
+            "range.json"
+          ]
         }
       ],
       "configxml": null,
@@ -54,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "products",
+      "firstform": "range",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
